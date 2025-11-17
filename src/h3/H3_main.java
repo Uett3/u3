@@ -6,7 +6,7 @@ public class H3_main {
         int max = 23;
         int fix = 21;
         int wartend = 1;
-        boolean istVoll;
+        boolean istVoll false;
 
         int freiePlätze = max - fix;
 
